@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Da8QBz2DWlx1FCVt3onCSJu9KE0LwnrZEZxFsDe+uJD308894pdKNCzk133NFvNhqX/lBTbAGtPXpjFwupV2Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ldamiens\\source\\repos\\TempMail\\TempMail\\TempMail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ldamiens\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

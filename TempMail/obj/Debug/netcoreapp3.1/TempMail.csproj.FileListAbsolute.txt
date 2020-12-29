@@ -1,0 +1,15 @@
+C:\Users\ldamiens\source\repos\TempMail\TempMail\bin\Debug\netcoreapp3.1\TempMail.exe
+C:\Users\ldamiens\source\repos\TempMail\TempMail\bin\Debug\netcoreapp3.1\TempMail.deps.json
+C:\Users\ldamiens\source\repos\TempMail\TempMail\bin\Debug\netcoreapp3.1\TempMail.runtimeconfig.json
+C:\Users\ldamiens\source\repos\TempMail\TempMail\bin\Debug\netcoreapp3.1\TempMail.runtimeconfig.dev.json
+C:\Users\ldamiens\source\repos\TempMail\TempMail\bin\Debug\netcoreapp3.1\TempMail.dll
+C:\Users\ldamiens\source\repos\TempMail\TempMail\bin\Debug\netcoreapp3.1\TempMail.pdb
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.csprojAssemblyReference.cache
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.AssemblyInfoInputs.cache
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.AssemblyInfo.cs
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.dll
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.pdb
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.genruntimeconfig.cache
+C:\Users\ldamiens\source\repos\TempMail\TempMail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.csproj.CoreCompileInputs.cache
+C:\Users\ldamiens\source\repos\TempMail\TempMail\obj\Debug\netcoreapp3.1\TempMail.csproj.CopyComplete
